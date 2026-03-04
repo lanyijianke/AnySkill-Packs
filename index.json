@@ -1,0 +1,53 @@
+{
+  "packs": [
+    {
+      "category": "communication",
+      "skills": []
+    },
+    {
+      "category": "content-creation",
+      "skills": []
+    },
+    {
+      "category": "core-enhancement",
+      "skills": [
+        {
+          "name": "project-update",
+          "description": "通用的文档与代码同步框架。当代码库发生变更（重构、新功能、升级）时使用，以标准化 Agent Skills 和项目文档的更新流程。",
+          "path": "core-enhancement/project-update",
+          "file": "core-enhancement/project-update/SKILL.md",
+          "files": [
+            "core-enhancement/project-update/SKILL.md"
+          ]
+        },
+        {
+          "name": "skill-writer",
+          "description": "指导用户为 Claude Code 创建 Agent Skills。当用户想要创建、编写、创作或设计新的 Skill，或者在 SKILL.md 文件、Frontmatter 或 Skill 结构方面需要帮助时使用。",
+          "path": "core-enhancement/skill-writer",
+          "file": "core-enhancement/skill-writer/SKILL.md",
+          "files": [
+            "core-enhancement/skill-writer/SKILL.md"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "data-crawling",
+      "skills": []
+    },
+    {
+      "category": "tech-development",
+      "skills": [
+        {
+          "name": "frontend-design",
+          "description": "创建独特、生产级且具有高设计质量的前端界面。当用户要求构建 Web 组件、页面或应用程序时使用。致力于生成富有创意的代码，避免通用的 AI 审美。",
+          "path": "tech-development/frontend-design",
+          "file": "tech-development/frontend-design/SKILL.md",
+          "files": [
+            "tech-development/frontend-design/SKILL.md"
+          ]
+        }
+      ]
+    }
+  ]
+}
