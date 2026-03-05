@@ -15,6 +15,7 @@
 | **内容创作** | `packs/content-creation/` | 文案写作、社交媒体运营、内容编辑等创作类技能 |
 | **数据采集** | `packs/data-crawling/` | 爬虫、数据抓取、信息聚合等采集类技能 |
 | **通信集成** | `packs/communication/` | 飞书、钉钉、Telegram、Slack 等通信平台对接技能 |
+| **办公运营** | `packs/office-operations/` | 文档处理、表格分析、会议纪要、项目管理等办公运营类技能 |
 
 ---
 
@@ -33,15 +34,42 @@ AI 会自动从本仓库拉取对应组合包中的所有技能，下载到你�
 ```
 AnySkill-Packs/
 ├── packs/
-│   ├── core-enhancement/         # 核心增强
-│   │   ├── self-improving-agent/
-│   │   ├── smithery-ai-cli/
+│   ├── core-enhancement/         # 核心增强 (8 skills)
+│   │   ├── brainstorming/
+│   │   ├── find-skills/
+│   │   ├── project-update/
+│   │   ├── prompt-engineering/
 │   │   ├── skill-writer/
-│   │   └── project-update/
-│   ├── tech-development/         # 技术开发
-│   │   └── frontend-design/
-│   ├── content-creation/         # 内容创作
-│   ├── data-crawling/            # 数据采集
+│   │   ├── using-superpowers/
+│   │   ├── video-prompting-guide/
+│   │   └── writing-plans/
+│   ├── tech-development/         # 技术开发 (21 skills)
+│   │   ├── agent-tools/
+│   │   ├── agent-ui/
+│   │   ├── chat-ui/
+│   │   ├── frontend-design/
+│   │   ├── javascript-sdk/
+│   │   ├── python-sdk/
+│   │   ├── seo-audit/
+│   │   ├── test-driven-development/
+│   │   ├── vercel-react-best-practices/
+│   │   ├── widgets-ui/
+│   │   └── ... (+ 11 design skills)
+│   ├── content-creation/         # 内容创作 (21 skills)
+│   │   ├── copywriting/
+│   │   ├── ai-content-pipeline/
+│   │   ├── linkedin-content/
+│   │   ├── twitter-thread-creation/
+│   │   ├── technical-blog-writing/
+│   │   └── ... (+ 16 more)
+│   ├── data-crawling/            # 数据采集 (1 skill)
+│   │   └── agent-browser/
+│   ├── office-operations/        # 办公运营 (5 skills)
+│   │   ├── pdf/
+│   │   ├── competitor-teardown/
+│   │   ├── customer-persona/
+│   │   ├── product-changelog/
+│   │   └── product-hunt-launch/
 │   └── communication/            # 通信集成
 ├── generate-index.js             # 索引生成脚本
 ├── index.json                    # 自动生成的索引

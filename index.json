@@ -6,11 +6,222 @@
     },
     {
       "category": "content-creation",
-      "skills": []
+      "skills": [
+        {
+          "name": "ai-automation-workflows",
+          "description": "Build automated AI workflows combining multiple models and services. Patterns: batch processing, scheduled tasks, event-driven pipelines, agent loops. Tools: inference.sh CLI, bash scripting, Python SDK, webhook integration. Use for: content automation, data processing, monitoring, scheduled generation. Triggers: ai automation, workflow automation, batch processing, ai pipeline, automated content, scheduled ai, ai cron, ai batch job, automated generation, ai workflow, content at scale, automation script, ai orchestration",
+          "path": "content-creation/ai-automation-workflows",
+          "file": "content-creation/ai-automation-workflows/SKILL.md",
+          "files": [
+            "content-creation/ai-automation-workflows/SKILL.md"
+          ]
+        },
+        {
+          "name": "ai-content-pipeline",
+          "description": "Build multi-step AI content creation pipelines combining image, video, audio, and text. Workflow examples: generate image -> animate -> add voiceover -> merge with music. Tools: FLUX, Veo, Kokoro TTS, OmniHuman, media merger, upscaling. Use for: YouTube videos, social media content, marketing materials, automated content. Triggers: content pipeline, ai workflow, content creation, multi-step ai, content automation, ai video workflow, generate and edit, ai content factory, automated content creation, ai production pipeline, media pipeline, content at scale",
+          "path": "content-creation/ai-content-pipeline",
+          "file": "content-creation/ai-content-pipeline/SKILL.md",
+          "files": [
+            "content-creation/ai-content-pipeline/SKILL.md"
+          ]
+        },
+        {
+          "name": "ai-marketing-videos",
+          "description": "Create AI marketing videos for ads, promos, product launches, and brand content. Models: Veo, Seedance, Wan, FLUX for visuals, Kokoro for voiceover. Types: product demos, testimonials, explainers, social ads, brand videos. Use for: Facebook ads, YouTube ads, product launches, brand awareness. Triggers: marketing video, ad video, promo video, commercial, brand video, product video, explainer video, ad creative, video ad, facebook ad video, youtube ad, instagram ad, tiktok ad, promotional video, launch video",
+          "path": "content-creation/ai-marketing-videos",
+          "file": "content-creation/ai-marketing-videos/SKILL.md",
+          "files": [
+            "content-creation/ai-marketing-videos/SKILL.md"
+          ]
+        },
+        {
+          "name": "ai-podcast-creation",
+          "description": "Create AI-powered podcasts with text-to-speech, music, and audio editing. Tools: Kokoro TTS, DIA TTS, Chatterbox, AI music generation, media merger. Capabilities: multi-voice conversations, background music, intro/outro, full episodes. Use for: podcast production, audiobooks, voice content, audio newsletters. Triggers: podcast, ai podcast, text to speech podcast, audio content, voice over, ai audiobook, multi voice, conversation ai, notebooklm alternative, audio generation, podcast automation, ai narrator, voice content, audio newsletter, podcast maker",
+          "path": "content-creation/ai-podcast-creation",
+          "file": "content-creation/ai-podcast-creation/SKILL.md",
+          "files": [
+            "content-creation/ai-podcast-creation/SKILL.md"
+          ]
+        },
+        {
+          "name": "ai-product-photography",
+          "description": "Generate professional AI product photography and commercial images. Models: FLUX, Imagen 3, Grok, Seedream for product shots, lifestyle images, mockups. Capabilities: studio lighting, lifestyle scenes, packaging, e-commerce photos. Use for: e-commerce, Amazon listings, Shopify, marketing, advertising, mockups. Triggers: product photography, product shot, commercial photography, e-commerce images, amazon product photo, shopify images, product mockup, studio product shot, lifestyle product image, advertising photo, packshot, product render, product image ai",
+          "path": "content-creation/ai-product-photography",
+          "file": "content-creation/ai-product-photography/SKILL.md",
+          "files": [
+            "content-creation/ai-product-photography/SKILL.md"
+          ]
+        },
+        {
+          "name": "ai-social-media-content",
+          "description": "Create AI-powered social media content for TikTok, Instagram, YouTube, Twitter/X. Generate: images, videos, reels, shorts, thumbnails, captions, hashtags. Tools: FLUX, Veo, Seedance, Wan, Kokoro TTS, Claude for copywriting. Use for: content creators, social media managers, influencers, brands. Triggers: social media content, tiktok, instagram reels, youtube shorts, twitter post, content creator, ai influencer, social content, reels, shorts, viral content, thumbnail generator, caption generator, hashtag generator, ugc content",
+          "path": "content-creation/ai-social-media-content",
+          "file": "content-creation/ai-social-media-content/SKILL.md",
+          "files": [
+            "content-creation/ai-social-media-content/SKILL.md"
+          ]
+        },
+        {
+          "name": "case-study-writing",
+          "description": "B2B case study writing with STAR framework, data visualization, and research. Covers structure, customer quotes, metrics presentation, and distribution formats. Use for: customer success stories, portfolio pieces, sales enablement, marketing content. Triggers: case study, customer story, success story, b2b case study, client testimonial, customer case study, portfolio case study, use case, customer win, results story",
+          "path": "content-creation/case-study-writing",
+          "file": "content-creation/case-study-writing/SKILL.md",
+          "files": [
+            "content-creation/case-study-writing/SKILL.md"
+          ]
+        },
+        {
+          "name": "content-repurposing",
+          "description": "Content atomization — turn one piece of content into many formats. Covers blog-to-thread, blog-to-carousel, podcast-to-blog, video-to-quotes, and more. Use for: content marketing, social media, multi-platform distribution, content strategy. Triggers: content repurposing, repurpose content, content atomization, content recycling, one to many content, multi platform content, cross post, adapt content, reformat content, blog to thread, blog to video, podcast to blog, content multiplication",
+          "path": "content-creation/content-repurposing",
+          "file": "content-creation/content-repurposing/SKILL.md",
+          "files": [
+            "content-creation/content-repurposing/SKILL.md"
+          ]
+        },
+        {
+          "name": "copywriting",
+          "description": "When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" \"CTA copy,\" \"value proposition,\" \"tagline,\" \"subheadline,\" \"hero section copy,\" \"above the fold,\" \"this copy is weak,\" \"make this more compelling,\" or \"help me describe my product.\" Use this whenever someone is working on website text that needs to persuade or convert. For email copy, see email-sequence. For popup copy, see popup-cro. For editing existing copy, see copy-editing.",
+          "path": "content-creation/copywriting",
+          "file": "content-creation/copywriting/SKILL.md",
+          "files": [
+            "content-creation/copywriting/SKILL.md",
+            "content-creation/copywriting/evals/evals.json",
+            "content-creation/copywriting/references/copy-frameworks.md",
+            "content-creation/copywriting/references/natural-transitions.md"
+          ]
+        },
+        {
+          "name": "explainer-video-guide",
+          "description": "Explainer video production guide: scripting, voiceover, visuals, and assembly. Covers script formulas, pacing rules, scene planning, and multi-tool pipelines. Use for: product demos, how-it-works videos, onboarding videos, social explainers. Triggers: explainer video, how to make explainer, product video, demo video, video production, video script, animated explainer, product demo video, tutorial video, onboarding video, walkthrough video, video pipeline",
+          "path": "content-creation/explainer-video-guide",
+          "file": "content-creation/explainer-video-guide/SKILL.md",
+          "files": [
+            "content-creation/explainer-video-guide/SKILL.md"
+          ]
+        },
+        {
+          "name": "linkedin-content",
+          "description": "LinkedIn post writing with hook formulas, formatting rules, and engagement patterns. Covers post types, algorithm signals, character limits, and content pillars. Use for: LinkedIn posts, professional content, thought leadership, B2B content, personal branding. Triggers: linkedin post, linkedin content, linkedin writing, linkedin strategy, linkedin engagement, linkedin algorithm, linkedin hook, linkedin formatting, thought leadership, professional content, b2b content, linkedin growth",
+          "path": "content-creation/linkedin-content",
+          "file": "content-creation/linkedin-content/SKILL.md",
+          "files": [
+            "content-creation/linkedin-content/SKILL.md"
+          ]
+        },
+        {
+          "name": "newsletter-curation",
+          "description": "Newsletter curation with content sourcing, editorial structure, and subscriber growth strategies. Covers issue formatting, link roundups, commentary style, and sending cadence. Use for: email newsletters, link roundups, weekly digests, curated content, creator newsletters. Triggers: newsletter, email newsletter, newsletter curation, weekly digest, link roundup, curated newsletter, newsletter writing, newsletter format, subscriber growth, newsletter strategy, content curation, newsletter template",
+          "path": "content-creation/newsletter-curation",
+          "file": "content-creation/newsletter-curation/SKILL.md",
+          "files": [
+            "content-creation/newsletter-curation/SKILL.md"
+          ]
+        },
+        {
+          "name": "press-release-writing",
+          "description": "Press release writing in AP style with inverted pyramid structure. Covers formatting, datelines, quotes, boilerplates, and fact-checking. Use for: product launches, funding announcements, partnerships, company news, events. Triggers: press release, pr writing, media release, news release, announcement, product launch announcement, funding announcement, company news, media advisory, ap style, press statement, news wire",
+          "path": "content-creation/press-release-writing",
+          "file": "content-creation/press-release-writing/SKILL.md",
+          "files": [
+            "content-creation/press-release-writing/SKILL.md"
+          ]
+        },
+        {
+          "name": "product-photography",
+          "description": "AI product photography with studio lighting, lifestyle shots, and packshot conventions. Covers angles, backgrounds, shadow types, hero shots, and e-commerce image requirements. Use for: product photos, e-commerce images, Amazon listings, packshots, lifestyle photography. Triggers: product photography, product photo, packshot, e-commerce photography, product shot, product image, studio photography, lifestyle product, amazon product photo, product listing image, hero shot, product mockup, commercial photography",
+          "path": "content-creation/product-photography",
+          "file": "content-creation/product-photography/SKILL.md",
+          "files": [
+            "content-creation/product-photography/SKILL.md"
+          ]
+        },
+        {
+          "name": "seo-content-brief",
+          "description": "SEO content brief creation with keyword research, search intent analysis, and content structure. Covers SERP analysis, heading hierarchy, word count targets, and internal linking strategy. Use for: content briefs, SEO writing, blog strategy, content planning, keyword targeting. Triggers: seo content brief, content brief, seo brief, keyword research, search intent, content strategy, blog brief, seo writing, content planning, keyword targeting, serp analysis, content outline, seo article, blog seo",
+          "path": "content-creation/seo-content-brief",
+          "file": "content-creation/seo-content-brief/SKILL.md",
+          "files": [
+            "content-creation/seo-content-brief/SKILL.md"
+          ]
+        },
+        {
+          "name": "social-media-carousel",
+          "description": "Multi-slide carousel design for Instagram, LinkedIn, and Twitter/X with layout rules and hooks. Covers slide structure, text hierarchy, swipe psychology, and platform-specific specs. Use for: carousel posts, Instagram carousels, LinkedIn carousels, slide posts, educational content. Triggers: carousel, instagram carousel, linkedin carousel, slide post, carousel design, swipe post, multi-image post, carousel template, educational carousel, carousel content, instagram slides, linkedin slides",
+          "path": "content-creation/social-media-carousel",
+          "file": "content-creation/social-media-carousel/SKILL.md",
+          "files": [
+            "content-creation/social-media-carousel/SKILL.md"
+          ]
+        },
+        {
+          "name": "storyboard-creation",
+          "description": "Film and video storyboarding with shot vocabulary, continuity rules, and panel layout. Covers shot types, camera angles, movement, 180-degree rule, and annotation format. Use for: video planning, film pre-production, ad storyboards, music video planning, animation. Triggers: storyboard, storyboarding, shot list, film planning, video planning, pre production, shot composition, camera angles, scene planning, visual script, animatic, storyboard panels, video storyboard",
+          "path": "content-creation/storyboard-creation",
+          "file": "content-creation/storyboard-creation/SKILL.md",
+          "files": [
+            "content-creation/storyboard-creation/SKILL.md"
+          ]
+        },
+        {
+          "name": "talking-head-production",
+          "description": "Talking head video production with AI avatars, lipsync, and voiceover. Covers portrait requirements, audio quality, OmniHuman, PixVerse lipsync, Dia TTS. Use for: spokesperson videos, course content, social media, presentations, demos. Triggers: talking head, avatar video, lipsync, lip sync, ai spokesperson, virtual presenter, ai presenter, omnihuman, talking avatar, video presenter, ai talking head, presenter video, ai face video",
+          "path": "content-creation/talking-head-production",
+          "file": "content-creation/talking-head-production/SKILL.md",
+          "files": [
+            "content-creation/talking-head-production/SKILL.md"
+          ]
+        },
+        {
+          "name": "technical-blog-writing",
+          "description": "Technical blog post writing with structure, code examples, and developer audience conventions. Covers post types, code formatting, explanation depth, and developer-specific engagement patterns. Use for: engineering blogs, dev tutorials, technical writing, developer content, documentation posts. Triggers: technical blog, dev blog, engineering blog, technical writing, developer tutorial, tech post, code tutorial, programming blog, developer content, technical article, engineering post, coding tutorial, technical content",
+          "path": "content-creation/technical-blog-writing",
+          "file": "content-creation/technical-blog-writing/SKILL.md",
+          "files": [
+            "content-creation/technical-blog-writing/SKILL.md"
+          ]
+        },
+        {
+          "name": "twitter-thread-creation",
+          "description": "Twitter/X thread writing with hook tweets, thread structure, and engagement optimization. Covers tweet formatting, character limits, media attachments, and posting strategies. Use for: Twitter threads, X posts, tweet storms, Twitter content, social media writing. Triggers: twitter thread, tweet thread, x thread, twitter post, tweet writing, thread creation, tweet storm, twitter content, x post, twitter writing, twitter hook, tweet formatting, thread structure",
+          "path": "content-creation/twitter-thread-creation",
+          "file": "content-creation/twitter-thread-creation/SKILL.md",
+          "files": [
+            "content-creation/twitter-thread-creation/SKILL.md"
+          ]
+        },
+        {
+          "name": "video-ad-specs",
+          "description": "Video ad creation with exact platform-specific specs for TikTok, Instagram, YouTube, Facebook, LinkedIn. Covers dimensions, duration limits, AIDA framework, and caption requirements. Use for: video ads, social media ads, paid media creative, video marketing, ad production. Triggers: video ad, social media ad, tiktok ad, instagram ad, youtube ad, facebook ad, linkedin ad, video creative, ad specs, paid media, video marketing, ad production, reels ad, stories ad, pre roll, bumper ad",
+          "path": "content-creation/video-ad-specs",
+          "file": "content-creation/video-ad-specs/SKILL.md",
+          "files": [
+            "content-creation/video-ad-specs/SKILL.md"
+          ]
+        }
+      ]
     },
     {
       "category": "core-enhancement",
       "skills": [
+        {
+          "name": "brainstorming",
+          "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+          "path": "core-enhancement/brainstorming",
+          "file": "core-enhancement/brainstorming/SKILL.md",
+          "files": [
+            "core-enhancement/brainstorming/SKILL.md"
+          ]
+        },
+        {
+          "name": "find-skills",
+          "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.",
+          "path": "core-enhancement/find-skills",
+          "file": "core-enhancement/find-skills/SKILL.md",
+          "files": [
+            "core-enhancement/find-skills/SKILL.md"
+          ]
+        },
         {
           "name": "project-update",
           "description": "通用的文档与代码同步框架。当代码库发生变更（重构、新功能、升级）时使用，以标准化 Agent Skills 和项目文档的更新流程。",
@@ -21,6 +232,15 @@
           ]
         },
         {
+          "name": "prompt-engineering",
+          "description": "Master prompt engineering for AI models: LLMs, image generators, video models. Techniques: chain-of-thought, few-shot, system prompts, negative prompts. Models: Claude, GPT-4, Gemini, FLUX, Veo, Stable Diffusion prompting. Use for: better AI outputs, consistent results, complex tasks, optimization. Triggers: prompt engineering, how to prompt, better prompts, prompt tips, prompting guide, llm prompting, image prompt, ai prompting, prompt optimization, prompt template, prompt structure, effective prompts, prompt techniques",
+          "path": "core-enhancement/prompt-engineering",
+          "file": "core-enhancement/prompt-engineering/SKILL.md",
+          "files": [
+            "core-enhancement/prompt-engineering/SKILL.md"
+          ]
+        },
+        {
           "name": "skill-writer",
           "description": "指导用户为 Claude Code 创建 Agent Skills。当用户想要创建、编写、创作或设计新的 Skill，或者在 SKILL.md 文件、Frontmatter 或 Skill 结构方面需要帮助时使用。",
           "path": "core-enhancement/skill-writer",
@@ -28,16 +248,200 @@
           "files": [
             "core-enhancement/skill-writer/SKILL.md"
           ]
+        },
+        {
+          "name": "using-superpowers",
+          "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+          "path": "core-enhancement/using-superpowers",
+          "file": "core-enhancement/using-superpowers/SKILL.md",
+          "files": [
+            "core-enhancement/using-superpowers/SKILL.md"
+          ]
+        },
+        {
+          "name": "video-prompting-guide",
+          "description": "Best practices and techniques for writing effective AI video generation prompts. Covers: Veo, Seedance, Wan, Grok, Kling, Runway, Pika, Sora prompting strategies. Learn: shot types, camera movements, lighting, pacing, style keywords, negative prompts. Use for: improving video quality, getting consistent results, professional video prompts. Triggers: video prompt, how to prompt video, veo prompts, video generation tips, better ai video, video prompt engineering, video prompt guide, video prompt template, ai video tips, video prompt best practices, video prompt examples, cinematography prompts",
+          "path": "core-enhancement/video-prompting-guide",
+          "file": "core-enhancement/video-prompting-guide/SKILL.md",
+          "files": [
+            "core-enhancement/video-prompting-guide/SKILL.md"
+          ]
+        },
+        {
+          "name": "writing-plans",
+          "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+          "path": "core-enhancement/writing-plans",
+          "file": "core-enhancement/writing-plans/SKILL.md",
+          "files": [
+            "core-enhancement/writing-plans/SKILL.md"
+          ]
         }
       ]
     },
     {
       "category": "data-crawling",
-      "skills": []
+      "skills": [
+        {
+          "name": "agent-browser",
+          "description": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking screenshots, extracting data, testing web apps, or automating any browser task. Triggers include requests to \"open a website\", \"fill out a form\", \"click a button\", \"take a screenshot\", \"scrape data from a page\", \"test this web app\", \"login to a site\", \"automate browser actions\", or any task requiring programmatic web interaction.",
+          "path": "data-crawling/agent-browser",
+          "file": "data-crawling/agent-browser/SKILL.md",
+          "files": [
+            "data-crawling/agent-browser/SKILL.md",
+            "data-crawling/agent-browser/references/authentication.md",
+            "data-crawling/agent-browser/references/commands.md",
+            "data-crawling/agent-browser/references/profiling.md",
+            "data-crawling/agent-browser/references/proxy-support.md",
+            "data-crawling/agent-browser/references/session-management.md",
+            "data-crawling/agent-browser/references/snapshot-refs.md",
+            "data-crawling/agent-browser/references/video-recording.md",
+            "data-crawling/agent-browser/templates/authenticated-session.sh",
+            "data-crawling/agent-browser/templates/capture-workflow.sh",
+            "data-crawling/agent-browser/templates/form-automation.sh"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "office-operations",
+      "skills": [
+        {
+          "name": "competitor-teardown",
+          "description": "Structured competitive analysis with feature matrices, SWOT, positioning maps, and UX review. Covers research frameworks, pricing comparison, review mining, and visual deliverables. Use for: market research, competitive intelligence, investor decks, product strategy, sales enablement. Triggers: competitor analysis, competitive analysis, competitor teardown, market research, competitive intelligence, swot analysis, competitor comparison, market landscape, competitor review, competitive landscape, feature comparison, market positioning",
+          "path": "office-operations/competitor-teardown",
+          "file": "office-operations/competitor-teardown/SKILL.md",
+          "files": [
+            "office-operations/competitor-teardown/SKILL.md"
+          ]
+        },
+        {
+          "name": "customer-persona",
+          "description": "Research-backed customer persona creation with market data and avatar generation. Covers demographics, psychographics, jobs-to-be-done, journey mapping, and anti-personas. Use for: marketing strategy, product development, UX research, sales enablement, content strategy. Triggers: customer persona, buyer persona, user persona, target audience, ideal customer, customer profile, audience research, user research, icp, ideal customer profile, target market, customer avatar, audience persona",
+          "path": "office-operations/customer-persona",
+          "file": "office-operations/customer-persona/SKILL.md",
+          "files": [
+            "office-operations/customer-persona/SKILL.md"
+          ]
+        },
+        {
+          "name": "pdf",
+          "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill.",
+          "path": "office-operations/pdf",
+          "file": "office-operations/pdf/SKILL.md",
+          "files": [
+            "office-operations/pdf/LICENSE.txt",
+            "office-operations/pdf/SKILL.md",
+            "office-operations/pdf/forms.md",
+            "office-operations/pdf/reference.md",
+            "office-operations/pdf/scripts/check_bounding_boxes.py",
+            "office-operations/pdf/scripts/check_fillable_fields.py",
+            "office-operations/pdf/scripts/convert_pdf_to_images.py",
+            "office-operations/pdf/scripts/create_validation_image.py",
+            "office-operations/pdf/scripts/extract_form_field_info.py",
+            "office-operations/pdf/scripts/extract_form_structure.py",
+            "office-operations/pdf/scripts/fill_fillable_fields.py",
+            "office-operations/pdf/scripts/fill_pdf_form_with_annotations.py"
+          ]
+        },
+        {
+          "name": "product-changelog",
+          "description": "Product changelog and release notes that users actually read. Covers categorization, user-facing language, visuals, and distribution. Use for: release notes, changelogs, product updates, feature announcements, versioning. Triggers: changelog, release notes, product update, version notes, what's new, feature announcement, product changelog, update log, release announcement, version release, product release, ship notes",
+          "path": "office-operations/product-changelog",
+          "file": "office-operations/product-changelog/SKILL.md",
+          "files": [
+            "office-operations/product-changelog/SKILL.md"
+          ]
+        },
+        {
+          "name": "product-hunt-launch",
+          "description": "Product Hunt launch optimization with specific specs, timing, and gallery strategy. Covers taglines, gallery images, maker comments, and launch day tactics. Use for: product launches, startup launches, side project launches, Product Hunt optimization. Triggers: product hunt, ph launch, product hunt launch, launch strategy, product launch, startup launch, product hunt tips, product hunt gallery, ph optimization, launch day, product hunt maker",
+          "path": "office-operations/product-hunt-launch",
+          "file": "office-operations/product-hunt-launch/SKILL.md",
+          "files": [
+            "office-operations/product-hunt-launch/SKILL.md"
+          ]
+        }
+      ]
     },
     {
       "category": "tech-development",
       "skills": [
+        {
+          "name": "agent-tools",
+          "description": "Run 150+ AI apps via inference.sh CLI - image generation, video creation, LLMs, search, 3D, Twitter automation. Models: FLUX, Veo, Gemini, Grok, Claude, Seedance, OmniHuman, Tavily, Exa, OpenRouter, and many more. Use when running AI apps, generating images/videos, calling LLMs, web search, or automating Twitter. Triggers: inference.sh, infsh, ai model, run ai, serverless ai, ai api, flux, veo, claude api, image generation, video generation, openrouter, tavily, exa search, twitter api, grok",
+          "path": "tech-development/agent-tools",
+          "file": "tech-development/agent-tools/SKILL.md",
+          "files": [
+            "tech-development/agent-tools/SKILL.md",
+            "tech-development/agent-tools/references/app-discovery.md",
+            "tech-development/agent-tools/references/authentication.md",
+            "tech-development/agent-tools/references/cli-reference.md",
+            "tech-development/agent-tools/references/running-apps.md"
+          ]
+        },
+        {
+          "name": "agent-ui",
+          "description": "Batteries-included agent component for React/Next.js from ui.inference.sh. One component with runtime, tools, streaming, approvals, and widgets built in. Capabilities: drop-in agent, human-in-the-loop, client-side tools, form filling. Use for: building AI chat interfaces, agentic UIs, SaaS copilots, assistants. Triggers: agent component, agent ui, chat agent, shadcn agent, react agent,  agentic ui, ai assistant ui, copilot ui, inference ui, human in the loop",
+          "path": "tech-development/agent-ui",
+          "file": "tech-development/agent-ui/SKILL.md",
+          "files": [
+            "tech-development/agent-ui/SKILL.md"
+          ]
+        },
+        {
+          "name": "app-store-screenshots",
+          "description": "App Store and Google Play screenshot creation with exact platform specs. Covers iOS/Android dimensions, gallery ordering, device mockups, and preview videos. Use for: app store optimization, ASO, app screenshots, app preview, play store listing. Triggers: app store screenshots, aso, app store optimization, play store screenshots, app preview, app listing, ios screenshots, android screenshots, app store images, app mockup, device mockup, app gallery, store listing",
+          "path": "tech-development/app-store-screenshots",
+          "file": "tech-development/app-store-screenshots/SKILL.md",
+          "files": [
+            "tech-development/app-store-screenshots/SKILL.md"
+          ]
+        },
+        {
+          "name": "book-cover-design",
+          "description": "Book cover design with genre-specific conventions, typography rules, and AI image generation. Covers fiction and non-fiction genres, sizing, thumbnail testing, and iteration workflows. Use for: self-publishing, ebook covers, print covers, audiobook covers, cover mockups. Triggers: book cover, cover design, ebook cover, book art, novel cover, self publishing cover, kindle cover, audiobook cover, book jacket, cover illustration, fiction cover, nonfiction cover",
+          "path": "tech-development/book-cover-design",
+          "file": "tech-development/book-cover-design/SKILL.md",
+          "files": [
+            "tech-development/book-cover-design/SKILL.md"
+          ]
+        },
+        {
+          "name": "character-design-sheet",
+          "description": "Character consistency across AI-generated images with reference sheets and LoRA techniques. Covers turnaround views, expression sheets, color palettes, and style consistency tricks. Use for: character design, game art, illustration, animation, comics, visual novels. Triggers: character design, character sheet, character consistency, character reference, turnaround sheet, expression sheet, character art, consistent character, character concept, reference sheet, character creation, oc design, character bible",
+          "path": "tech-development/character-design-sheet",
+          "file": "tech-development/character-design-sheet/SKILL.md",
+          "files": [
+            "tech-development/character-design-sheet/SKILL.md"
+          ]
+        },
+        {
+          "name": "chat-ui",
+          "description": "Chat UI building blocks for React/Next.js from ui.inference.sh. Components: container, messages, input, typing indicators, avatars. Capabilities: chat interfaces, message lists, input handling, streaming. Use for: building custom chat UIs, messaging interfaces, AI assistants. Triggers: chat ui, chat component, message list, chat input, shadcn chat,  react chat, chat interface, messaging ui, conversation ui, chat building blocks",
+          "path": "tech-development/chat-ui",
+          "file": "tech-development/chat-ui/SKILL.md",
+          "files": [
+            "tech-development/chat-ui/SKILL.md"
+          ]
+        },
+        {
+          "name": "data-visualization",
+          "description": "Data visualization with chart selection, color theory, and annotation best practices. Covers chart types (bar, line, scatter, heatmap), axes rules, and storytelling with data. Use for: charts, graphs, dashboards, reports, presentations, infographics, data stories. Triggers: data visualization, chart, graph, data chart, bar chart, line chart, scatter plot, data viz, visualization, dashboard chart, infographic data, data presentation, chart design, plot, heatmap, pie chart alternative",
+          "path": "tech-development/data-visualization",
+          "file": "tech-development/data-visualization/SKILL.md",
+          "files": [
+            "tech-development/data-visualization/SKILL.md"
+          ]
+        },
+        {
+          "name": "email-design",
+          "description": "Email marketing design with layout patterns, subject line formulas, and deliverability rules. Covers welcome sequences, promotional emails, transactional templates, and mobile optimization. Use for: email marketing, newsletter design, drip campaigns, email templates, transactional emails. Triggers: email design, email template, email marketing, newsletter design, email layout, email campaign, drip campaign, welcome email, promotional email, transactional email, email subject line, email header image, email banner",
+          "path": "tech-development/email-design",
+          "file": "tech-development/email-design/SKILL.md",
+          "files": [
+            "tech-development/email-design/SKILL.md"
+          ]
+        },
         {
           "name": "frontend-design",
           "description": "创建独特、生产级且具有高设计质量的前端界面。当用户要求构建 Web 组件、页面或应用程序时使用。致力于生成富有创意的代码，避免通用的 AI 审美。",
@@ -45,6 +449,191 @@
           "file": "tech-development/frontend-design/SKILL.md",
           "files": [
             "tech-development/frontend-design/SKILL.md"
+          ]
+        },
+        {
+          "name": "javascript-sdk",
+          "description": "JavaScript/TypeScript SDK for inference.sh - run AI apps, build agents, integrate 150+ models. Package: @inferencesh/sdk (npm install). Full TypeScript support, streaming, file uploads. Build agents with template or ad-hoc patterns, tool builder API, skills, human approval. Use for: JavaScript integration, TypeScript, Node.js, React, Next.js, frontend apps. Triggers: javascript sdk, typescript sdk, npm install, node.js api, js client, react ai, next.js ai, frontend sdk, @inferencesh/sdk, typescript agent, browser sdk, js integration",
+          "path": "tech-development/javascript-sdk",
+          "file": "tech-development/javascript-sdk/SKILL.md",
+          "files": [
+            "tech-development/javascript-sdk/SKILL.md",
+            "tech-development/javascript-sdk/references/agent-patterns.md",
+            "tech-development/javascript-sdk/references/files.md",
+            "tech-development/javascript-sdk/references/react-integration.md",
+            "tech-development/javascript-sdk/references/server-proxy.md",
+            "tech-development/javascript-sdk/references/sessions.md",
+            "tech-development/javascript-sdk/references/streaming.md",
+            "tech-development/javascript-sdk/references/tool-builder.md",
+            "tech-development/javascript-sdk/references/typescript.md"
+          ]
+        },
+        {
+          "name": "landing-page-design",
+          "description": "Landing page conversion optimization with layout rules, hero section design, and CTA psychology. Covers above-the-fold formula, social proof placement, mobile design, and F-pattern reading. Use for: startup landing pages, product pages, SaaS marketing, conversion optimization. Triggers: landing page, hero section, above the fold, conversion optimization, landing page design, cta button, hero image, landing page layout, saas landing page, product page design, conversion rate, landing page best practices",
+          "path": "tech-development/landing-page-design",
+          "file": "tech-development/landing-page-design/SKILL.md",
+          "files": [
+            "tech-development/landing-page-design/SKILL.md"
+          ]
+        },
+        {
+          "name": "logo-design-guide",
+          "description": "Logo design principles and AI image generation best practices for creating logos. Covers logo types, prompting techniques, scalability rules, and iteration workflows. Use for: brand identity, startup logos, app icons, favicons, logo concepts. Triggers: logo design, create logo, brand logo, logo generation, ai logo, logo maker, icon design, brand mark, logo concept, startup logo, app icon logo",
+          "path": "tech-development/logo-design-guide",
+          "file": "tech-development/logo-design-guide/SKILL.md",
+          "files": [
+            "tech-development/logo-design-guide/SKILL.md"
+          ]
+        },
+        {
+          "name": "og-image-design",
+          "description": "Open Graph and social sharing image design with platform specs, text placement, and branding. Covers OG meta tags, Twitter cards, LinkedIn previews, and dynamic generation. Use for: social sharing images, blog thumbnails, link previews, social cards. Triggers: og image, open graph, social sharing image, twitter card, social card, link preview image, og meta, sharing preview, social thumbnail, meta image, og:image, twitter:image, linkedin preview",
+          "path": "tech-development/og-image-design",
+          "file": "tech-development/og-image-design/SKILL.md",
+          "files": [
+            "tech-development/og-image-design/SKILL.md"
+          ]
+        },
+        {
+          "name": "pitch-deck-visuals",
+          "description": "Investor pitch deck structure with slide-by-slide framework, visual design rules, and data presentation. Covers the 12-slide framework, chart types, team slides, and common investor turn-offs. Use for: fundraising decks, investor presentations, startup pitch, demo day, grant proposals. Triggers: pitch deck, investor deck, startup pitch, fundraising deck, demo day, pitch presentation, investor presentation, seed deck, series a deck, pitch slides, startup presentation, vc pitch, investor meeting",
+          "path": "tech-development/pitch-deck-visuals",
+          "file": "tech-development/pitch-deck-visuals/SKILL.md",
+          "files": [
+            "tech-development/pitch-deck-visuals/SKILL.md"
+          ]
+        },
+        {
+          "name": "python-sdk",
+          "description": "Python SDK for inference.sh - run AI apps, build agents, and integrate with 150+ models. Package: inferencesh (pip install inferencesh). Supports sync/async, streaming, file uploads. Build agents with template or ad-hoc patterns, tool builder API, skills, and human approval. Use for: Python integration, AI apps, agent development, RAG pipelines, automation. Triggers: python sdk, inferencesh, pip install, python api, python client, async inference, python agent, tool builder python, programmatic ai, python integration, sdk python",
+          "path": "tech-development/python-sdk",
+          "file": "tech-development/python-sdk/SKILL.md",
+          "files": [
+            "tech-development/python-sdk/SKILL.md",
+            "tech-development/python-sdk/references/agent-patterns.md",
+            "tech-development/python-sdk/references/async-patterns.md",
+            "tech-development/python-sdk/references/files.md",
+            "tech-development/python-sdk/references/sessions.md",
+            "tech-development/python-sdk/references/streaming.md",
+            "tech-development/python-sdk/references/tool-builder.md"
+          ]
+        },
+        {
+          "name": "seo-audit",
+          "description": "When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions \"SEO audit,\" \"technical SEO,\" \"why am I not ranking,\" \"SEO issues,\" \"on-page SEO,\" \"meta tags review,\" \"SEO health check,\" \"my traffic dropped,\" \"lost rankings,\" \"not showing up in Google,\" \"site isn't ranking,\" \"Google update hit me,\" \"page speed,\" \"core web vitals,\" \"crawl errors,\" or \"indexing issues.\" Use this even if the user just says something vague like \"my SEO is bad\" or \"help with SEO\" — start with an audit. For building pages at scale to target keywords, see programmatic-seo. For adding structured data, see schema-markup. For AI search optimization, see ai-seo.",
+          "path": "tech-development/seo-audit",
+          "file": "tech-development/seo-audit/SKILL.md",
+          "files": [
+            "tech-development/seo-audit/SKILL.md",
+            "tech-development/seo-audit/evals/evals.json",
+            "tech-development/seo-audit/references/ai-writing-detection.md"
+          ]
+        },
+        {
+          "name": "test-driven-development",
+          "description": "Use when implementing any feature or bugfix, before writing implementation code",
+          "path": "tech-development/test-driven-development",
+          "file": "tech-development/test-driven-development/SKILL.md",
+          "files": [
+            "tech-development/test-driven-development/SKILL.md",
+            "tech-development/test-driven-development/testing-anti-patterns.md"
+          ]
+        },
+        {
+          "name": "tools-ui",
+          "description": "Tool lifecycle UI components for React/Next.js from ui.inference.sh. Display tool calls: pending, progress, approval required, results. Capabilities: tool status, progress indicators, approval flows, results display. Use for: showing agent tool calls, human-in-the-loop approvals, tool output. Triggers: tool ui, tool calls, tool status, tool approval, tool results, agent tools, mcp tools ui, function calling ui, tool lifecycle, tool pending",
+          "path": "tech-development/tools-ui",
+          "file": "tech-development/tools-ui/SKILL.md",
+          "files": [
+            "tech-development/tools-ui/SKILL.md"
+          ]
+        },
+        {
+          "name": "vercel-react-best-practices",
+          "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements.",
+          "path": "tech-development/vercel-react-best-practices",
+          "file": "tech-development/vercel-react-best-practices/SKILL.md",
+          "files": [
+            "tech-development/vercel-react-best-practices/AGENTS.md",
+            "tech-development/vercel-react-best-practices/README.md",
+            "tech-development/vercel-react-best-practices/SKILL.md",
+            "tech-development/vercel-react-best-practices/rules/advanced-event-handler-refs.md",
+            "tech-development/vercel-react-best-practices/rules/advanced-init-once.md",
+            "tech-development/vercel-react-best-practices/rules/advanced-use-latest.md",
+            "tech-development/vercel-react-best-practices/rules/async-api-routes.md",
+            "tech-development/vercel-react-best-practices/rules/async-defer-await.md",
+            "tech-development/vercel-react-best-practices/rules/async-dependencies.md",
+            "tech-development/vercel-react-best-practices/rules/async-parallel.md",
+            "tech-development/vercel-react-best-practices/rules/async-suspense-boundaries.md",
+            "tech-development/vercel-react-best-practices/rules/bundle-barrel-imports.md",
+            "tech-development/vercel-react-best-practices/rules/bundle-conditional.md",
+            "tech-development/vercel-react-best-practices/rules/bundle-defer-third-party.md",
+            "tech-development/vercel-react-best-practices/rules/bundle-dynamic-imports.md",
+            "tech-development/vercel-react-best-practices/rules/bundle-preload.md",
+            "tech-development/vercel-react-best-practices/rules/client-event-listeners.md",
+            "tech-development/vercel-react-best-practices/rules/client-localstorage-schema.md",
+            "tech-development/vercel-react-best-practices/rules/client-passive-event-listeners.md",
+            "tech-development/vercel-react-best-practices/rules/client-swr-dedup.md",
+            "tech-development/vercel-react-best-practices/rules/js-batch-dom-css.md",
+            "tech-development/vercel-react-best-practices/rules/js-cache-function-results.md",
+            "tech-development/vercel-react-best-practices/rules/js-cache-property-access.md",
+            "tech-development/vercel-react-best-practices/rules/js-cache-storage.md",
+            "tech-development/vercel-react-best-practices/rules/js-combine-iterations.md",
+            "tech-development/vercel-react-best-practices/rules/js-early-exit.md",
+            "tech-development/vercel-react-best-practices/rules/js-hoist-regexp.md",
+            "tech-development/vercel-react-best-practices/rules/js-index-maps.md",
+            "tech-development/vercel-react-best-practices/rules/js-length-check-first.md",
+            "tech-development/vercel-react-best-practices/rules/js-min-max-loop.md",
+            "tech-development/vercel-react-best-practices/rules/js-set-map-lookups.md",
+            "tech-development/vercel-react-best-practices/rules/js-tosorted-immutable.md",
+            "tech-development/vercel-react-best-practices/rules/rendering-activity.md",
+            "tech-development/vercel-react-best-practices/rules/rendering-animate-svg-wrapper.md",
+            "tech-development/vercel-react-best-practices/rules/rendering-conditional-render.md",
+            "tech-development/vercel-react-best-practices/rules/rendering-content-visibility.md",
+            "tech-development/vercel-react-best-practices/rules/rendering-hoist-jsx.md",
+            "tech-development/vercel-react-best-practices/rules/rendering-hydration-no-flicker.md",
+            "tech-development/vercel-react-best-practices/rules/rendering-hydration-suppress-warning.md",
+            "tech-development/vercel-react-best-practices/rules/rendering-svg-precision.md",
+            "tech-development/vercel-react-best-practices/rules/rendering-usetransition-loading.md",
+            "tech-development/vercel-react-best-practices/rules/rerender-defer-reads.md",
+            "tech-development/vercel-react-best-practices/rules/rerender-dependencies.md",
+            "tech-development/vercel-react-best-practices/rules/rerender-derived-state-no-effect.md",
+            "tech-development/vercel-react-best-practices/rules/rerender-derived-state.md",
+            "tech-development/vercel-react-best-practices/rules/rerender-functional-setstate.md",
+            "tech-development/vercel-react-best-practices/rules/rerender-lazy-state-init.md",
+            "tech-development/vercel-react-best-practices/rules/rerender-memo-with-default-value.md",
+            "tech-development/vercel-react-best-practices/rules/rerender-memo.md",
+            "tech-development/vercel-react-best-practices/rules/rerender-move-effect-to-event.md",
+            "tech-development/vercel-react-best-practices/rules/rerender-simple-expression-in-memo.md",
+            "tech-development/vercel-react-best-practices/rules/rerender-transitions.md",
+            "tech-development/vercel-react-best-practices/rules/rerender-use-ref-transient-values.md",
+            "tech-development/vercel-react-best-practices/rules/server-after-nonblocking.md",
+            "tech-development/vercel-react-best-practices/rules/server-auth-actions.md",
+            "tech-development/vercel-react-best-practices/rules/server-cache-lru.md",
+            "tech-development/vercel-react-best-practices/rules/server-cache-react.md",
+            "tech-development/vercel-react-best-practices/rules/server-dedup-props.md",
+            "tech-development/vercel-react-best-practices/rules/server-hoist-static-io.md",
+            "tech-development/vercel-react-best-practices/rules/server-parallel-fetching.md",
+            "tech-development/vercel-react-best-practices/rules/server-serialization.md"
+          ]
+        },
+        {
+          "name": "widgets-ui",
+          "description": "Declarative UI widgets from JSON for React/Next.js from ui.inference.sh. Render rich interactive UIs from structured agent responses. Capabilities: forms, buttons, cards, layouts, inputs, selects, checkboxes. Use for: agent-generated UIs, dynamic forms, data display, interactive cards. Triggers: widgets, declarative ui, json ui, widget renderer, agent widgets, dynamic ui, form widgets, card widgets, shadcn widgets, structured output ui",
+          "path": "tech-development/widgets-ui",
+          "file": "tech-development/widgets-ui/SKILL.md",
+          "files": [
+            "tech-development/widgets-ui/SKILL.md"
+          ]
+        },
+        {
+          "name": "youtube-thumbnail-design",
+          "description": "YouTube thumbnail design with specific dimensions, contrast rules, and mobile preview optimization. Covers safe zones, text placement, face expression psychology, and A/B testing. Use for: YouTube thumbnails, video cover images, click-through optimization. Triggers: youtube thumbnail, thumbnail design, video thumbnail, click through rate, ctr optimization, youtube cover, video cover image, thumbnail maker, thumbnail tips, youtube design, video preview image",
+          "path": "tech-development/youtube-thumbnail-design",
+          "file": "tech-development/youtube-thumbnail-design/SKILL.md",
+          "files": [
+            "tech-development/youtube-thumbnail-design/SKILL.md"
           ]
         }
       ]
