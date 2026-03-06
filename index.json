@@ -630,6 +630,20 @@
           ]
         },
         {
+          "name": "webapp-testing",
+          "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+          "path": "tech-development/webapp-testing",
+          "file": "tech-development/webapp-testing/SKILL.md",
+          "files": [
+            "tech-development/webapp-testing/LICENSE.txt",
+            "tech-development/webapp-testing/SKILL.md",
+            "tech-development/webapp-testing/examples/console_logging.py",
+            "tech-development/webapp-testing/examples/element_discovery.py",
+            "tech-development/webapp-testing/examples/static_html_automation.py",
+            "tech-development/webapp-testing/scripts/with_server.py"
+          ]
+        },
+        {
           "name": "widgets-ui",
           "description": "Declarative UI widgets from JSON for React/Next.js from ui.inference.sh. Render rich interactive UIs from structured agent responses. Capabilities: forms, buttons, cards, layouts, inputs, selects, checkboxes. Use for: agent-generated UIs, dynamic forms, data display, interactive cards. Triggers: widgets, declarative ui, json ui, widget renderer, agent widgets, dynamic ui, form widgets, card widgets, shadcn widgets, structured output ui",
           "path": "tech-development/widgets-ui",
