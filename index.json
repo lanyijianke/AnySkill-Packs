@@ -371,6 +371,16 @@
           "files": [
             "office-operations/product-hunt-launch/SKILL.md"
           ]
+        },
+        {
+          "name": "uninstall-mac-input-method",
+          "description": "Uninstall third-party input methods on macOS. Use when the user wants to remove, clean up, or completely uninstall Chinese input methods such as WeChat (WeType), Sogou (搜狗), Baidu (百度), Squirrel/Rime (鼠须管), LogInput (落格), or iFlytek (讯飞) input methods from their Mac.",
+          "path": "office-operations/uninstall-mac-input-method",
+          "file": "office-operations/uninstall-mac-input-method/SKILL.md",
+          "files": [
+            "office-operations/uninstall-mac-input-method/SKILL.md",
+            "office-operations/uninstall-mac-input-method/scripts/scan_input_methods.sh"
+          ]
         }
       ]
     },
