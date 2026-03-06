@@ -6,6 +6,9 @@ on:
       - 'packs/**'
       - 'generate-index.js'
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
