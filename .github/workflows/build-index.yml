@@ -9,16 +9,22 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: build-index
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Generate index
         run: node generate-index.js
@@ -29,4 +35,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add index.json
           git diff --cached --quiet || git commit -m "chore: rebuild index.json"
-          git push
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break || sleep 2
+          done
